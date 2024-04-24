@@ -1,316 +1,269 @@
-<p align="center"><a href="https://www.uvdesk.com/en/" target="_blank">
-    <img src="https://s3-ap-southeast-1.amazonaws.com/cdn.uvdesk.com/uvdesk/bundles/webkuldefault/images/uvdesk-wide.svg">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a href="https://www.uvdesk.com/en/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/a944ab384940b8dd6621f93d7b9c3774417af8fc991036de574cf7c418416e1f/68747470733a2f2f73332d61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f63646e2e75766465736b2e636f6d2f75766465736b2f62756e646c65732f7765626b756c64656661756c742f696d616765732f75766465736b2d776964652e737667" data-canonical-src="https://s3-ap-southeast-1.amazonaws.com/cdn.uvdesk.com/uvdesk/bundles/webkuldefault/images/uvdesk-wide.svg" style="max-width: 100%;">
 </a></p>
-
-<p align="center">
-    <a href="https://packagist.org/packages/uvdesk/community-skeleton"><img src="https://poser.pugx.org/uvdesk/community-skeleton/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/uvdesk/community-skeleton"><img src="https://poser.pugx.org/uvdesk/community-skeleton/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/uvdesk/community-skeleton"><img src="https://poser.pugx.org/uvdesk/community-skeleton/license.svg" alt="License"></a>
-    <a href="#backers"><img src="https://opencollective.com/uvdesk/backers/badge.svg" alt="Backers on Open Collective"></a>
-    <a href="#sponsors"><img src="https://opencollective.com/uvdesk/sponsors/badge.svg" alt="Sponsors on Open Collective"></a>
-    <a href="https://gitter.im/uvdesk/community"><img src="https://badges.gitter.im/uvdesk/community-skeleton.svg" alt="connect on gitter"></a>
-    <a href="https://forums.uvdesk.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="discuss on uvdesk forum"></a>
-    <a href="https://github.com/collections/made-in-india"><img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" alt="Checkout us on open source projects from India"></a>
+<p align="center" dir="auto">
+    <a href="https://packagist.org/packages/uvdesk/community-skeleton" rel="nofollow"><img src="https://camo.githubusercontent.com/c76864a55d946da6fe8284b842db07309dad961e0e316520352636a2ac860261/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f6d6d756e6974792d736b656c65746f6e2f762f737461626c652e737667" alt="最新稳定版本" data-canonical-src="https://poser.pugx.org/uvdesk/community-skeleton/v/stable.svg" style="max-width: 100%;"></a>
+    <a href="https://packagist.org/packages/uvdesk/community-skeleton" rel="nofollow"><img src="https://camo.githubusercontent.com/3ca44bd984bc36bb1289ad28f40abec9da62dfcdfddb9e3d5a492eb0b734bb86/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f6d6d756e6974792d736b656c65746f6e2f642f746f74616c2e737667" alt="总下载量" data-canonical-src="https://poser.pugx.org/uvdesk/community-skeleton/d/total.svg" style="max-width: 100%;"></a>
+    <a href="https://packagist.org/packages/uvdesk/community-skeleton" rel="nofollow"><img src="https://camo.githubusercontent.com/143a6826d9cfd5070065d8fc7fcfbf1f571ffa141061309109b08a8a7a04c6c1/68747470733a2f2f706f7365722e707567782e6f72672f75766465736b2f636f6d6d756e6974792d736b656c65746f6e2f6c6963656e73652e737667" alt="执照" data-canonical-src="https://poser.pugx.org/uvdesk/community-skeleton/license.svg" style="max-width: 100%;"></a>
+    <a href="#backers"><img src="https://camo.githubusercontent.com/6a74b0407fd8226b7c2f8ce3ddbacbf34ebe758cf83abe6c91aa36672b114e03/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f75766465736b2f6261636b6572732f62616467652e737667" alt="Open Collective 的支持者" data-canonical-src="https://opencollective.com/uvdesk/backers/badge.svg" style="max-width: 100%;"></a>
+    <a href="#sponsors"><img src="https://camo.githubusercontent.com/a30e61373f52482aa0e2ec6a363d3511b1b3fe8bb25047b5239fabc7928213dc/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f75766465736b2f73706f6e736f72732f62616467652e737667" alt="开放集体的赞助商" data-canonical-src="https://opencollective.com/uvdesk/sponsors/badge.svg" style="max-width: 100%;"></a>
+    <a href="https://gitter.im/uvdesk/community" rel="nofollow"><img src="https://camo.githubusercontent.com/8d41a49e8849592e2977e6fc280d2915853875d14df308994ed1255e17e34e33/68747470733a2f2f6261646765732e6769747465722e696d2f75766465736b2f636f6d6d756e6974792d736b656c65746f6e2e737667" alt="连接到 gitter" data-canonical-src="https://badges.gitter.im/uvdesk/community-skeleton.svg" style="max-width: 100%;"></a>
+    <a href="https://forums.uvdesk.com" rel="nofollow"><img src="https://camo.githubusercontent.com/a8b620de578ba63ed29db854d674d8e938aa54c037bda277642e30227a2b8133/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667" alt="在 uvdesk 论坛上讨论" data-canonical-src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" style="max-width: 100%;"></a>
+    <a href="https://github.com/collections/made-in-india"><img src="https://camo.githubusercontent.com/dc63c6e6fc2c136099c3be8b70e570c1c37f020fc94f7d602e49d9868aafbac1/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f76332f6f70656e2d736f757263652e706e673f763d313033" alt="查看我们来自印度的开源项目" data-canonical-src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=uvdesk"><img src="https://img.shields.io/twitter/follow/uvdesk?style=social"></a>
-    <a href="https://www.youtube.com/channel/UCKKt4IOC7ynLwhJMP35uFeQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCKKt4IOC7ynLwhJMP35uFeQ?style=social"></a>
+<p align="center" dir="auto">
+    <a href="https://twitter.com/intent/follow?screen_name=uvdesk" rel="nofollow"><img src="https://camo.githubusercontent.com/bf0af45dda023d7ac4d471563d34152c89aa7e6ca24a6c11b331dc4e0507a26a/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f75766465736b3f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/twitter/follow/uvdesk?style=social" style="max-width: 100%;"></a>
+    <a href="https://www.youtube.com/channel/UCKKt4IOC7ynLwhJMP35uFeQ" rel="nofollow"><img src="https://camo.githubusercontent.com/d2e2b8167adde6db18d31906194e7293f06e0f0d71fb3a4897b388b9adc3e804/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f55434b4b7434494f4337796e4c77684a4d503335754665513f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UCKKt4IOC7ynLwhJMP35uFeQ?style=social" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
-    ➡️ <a href="https://www.uvdesk.com/en/opensource/">Website</a> | <a href="https://docs.uvdesk.com/">Documentation</a> | <a href="https://www.uvdesk.com/en/blog/open-source-helpdesk-installation-on-ubuntu-uvdesk/">Installation Guide</a> | <a href="https://forums.uvdesk.com/">Forums</a> | <a href="https://www.facebook.com/uvdesk/">Community</a> ⬅️
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    ➡️</font></font><a href="https://www.uvdesk.com/en/opensource/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://docs.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://www.uvdesk.com/en/blog/open-source-helpdesk-installation-on-ubuntu-uvdesk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://forums.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://www.facebook.com/uvdesk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⬅️
+</font></font></p>
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/260bd93cde50f570225fa58be06a7fd0036144339f6801bad532ecfda2be3de2/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f61722e737667"><img src="https://camo.githubusercontent.com/260bd93cde50f570225fa58be06a7fd0036144339f6801bad532ecfda2be3de2/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f61722e737667" alt="阿拉伯" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/ar.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c25a7ba4eccf349a7372f48c7f2eb0ab3e3c95eff8d5ee4ecea03982dab4a685/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f64652e737667"><img src="https://camo.githubusercontent.com/c25a7ba4eccf349a7372f48c7f2eb0ab3e3c95eff8d5ee4ecea03982dab4a685/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f64652e737667" alt="德语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/de.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e490c2af9f4cfb2853e080a51e1c738245254d3571d28a529fe67ee4960d67bd/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f75732e737667"><img src="https://camo.githubusercontent.com/e490c2af9f4cfb2853e080a51e1c738245254d3571d28a529fe67ee4960d67bd/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f75732e737667" alt="英语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/us.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/97c300ace1e98b24135d566008fb7d61ef353cab8060851c813ee33d7a855b49/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f65732e737667"><img src="https://camo.githubusercontent.com/97c300ace1e98b24135d566008fb7d61ef353cab8060851c813ee33d7a855b49/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f65732e737667" alt="西班牙语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/es.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/14d49cdf0c9544894f30a8a7e310a68ed51108b73841b012be0e208f32aecaf7/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f66722e737667"><img src="https://camo.githubusercontent.com/14d49cdf0c9544894f30a8a7e310a68ed51108b73841b012be0e208f32aecaf7/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f66722e737667" alt="法语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/fr.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/07643d170b8676eb494b080be571e0260167ecd60f16bf2d17d08b31d04e51aa/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f69742e737667"><img src="https://camo.githubusercontent.com/07643d170b8676eb494b080be571e0260167ecd60f16bf2d17d08b31d04e51aa/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f69742e737667" alt="意大利语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/it.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/53b8b036bbd6400e4e6449cee83ca7700837f6e08d587c3a7bd73cafe6132222/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f646b2e737667"><img src="https://camo.githubusercontent.com/53b8b036bbd6400e4e6449cee83ca7700837f6e08d587c3a7bd73cafe6132222/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f646b2e737667" alt="丹麦语" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/dk.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/95bfdfd7f495d1667724f44be0d0aaf2f14fa7062a14a73a731b6a4839669715/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f706c2e737667"><img src="https://camo.githubusercontent.com/95bfdfd7f495d1667724f44be0d0aaf2f14fa7062a14a73a731b6a4839669715/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f706c2e737667" alt="抛光" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/pl.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8b0f28eb027d46e7365f8fabbccde583cf55034e5babf1bb0149daa148b0ce86/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f74722e737667"><img src="https://camo.githubusercontent.com/8b0f28eb027d46e7365f8fabbccde583cf55034e5babf1bb0149daa148b0ce86/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f74722e737667" alt="土耳其" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/tr.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/87bc74da4324e4b9ac31ae6803f6646ca6d9d3bec8b5e4154785bc4a0f83fdca/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f636e2e737667"><img src="https://camo.githubusercontent.com/87bc74da4324e4b9ac31ae6803f6646ca6d9d3bec8b5e4154785bc4a0f83fdca/68747470733a2f2f666c616769636f6e732e6c697069732e6465762f666c6167732f3478332f636e2e737667" alt="中国人" width="24" height="24" data-canonical-src="https://flagicons.lipis.dev/flags/4x3/cn.svg" style="max-width: 100%;"></a>
 </p>
-
-<p align="center" style="display: inline;">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/ar.svg" alt="Arabic" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/de.svg" alt="German" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="English" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Spanish" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/fr.svg" alt="French" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/it.svg" alt="Italian" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/dk.svg" alt="Danish" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/pl.svg" alt="Polish" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/tr.svg" alt="Turkish" width="24" height="24">
-    <img class="flag-img" src="https://flagicons.lipis.dev/flags/4x3/cn.svg" alt="Chinese" width="24" height="24">
-</p>
-
-[Uvdesk community helpdesk][1] project skeleton packaged along with the bare essential utilities and tools to build and customize your own helpdesk solutions.
-
-Visit our official demo website to [see it in action!][15]
-
-Check out UVdesk on **Symfony Official Website** – [Symfony][24]
-
-Getting Started
------------------
-
-* [About](#about)
-* [Features](#features)
-* [Documentation](#documentation)
-* [Modules](#modules)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Docker Runtime](#docker-runtime)
-* [Docker Persistent Container](#docker-persistent-container)
-* [Vagrant Virtual Environment](#vagrant-virtual-environment)
-* [License](#license)
-* [Security Vulnerabilities](#security-vulnerabilities)
-* [Feedback](#feedback)
-* [Contributions](#contributions)
-
-About
------------------
-
-Build on top of [symfony](https://symfony.com/) and [backbone.js](https://backbonejs.org/), uvdesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine.
-
-The standard distribution comes packaged along with the following helpdesk packages to cover a wide range of use-cases and requirements:
-
-  * [**Core Framework**][2] - At the heart of the helpdesk system, the core framework consists of all the necessary apis required by your project and dependent packages to keep things running smoothly
-
-  * [**Extension Framework**][3] - Introduces support for third-party package integration and development to easily build and extend the functionalities of your helpdesk system as per your requirements
-
-  * [**Automation Bundle**][4] - Adds support for workflows and prepared responses to automate any specific operations within your helpdesk system
-
-  * [**Mailbox Component**][11] - Convert and get all your emails to support tickets on UVDesk and manage customer query easily.
-
-  * [**Support Center Bundle**][5] - Integrates the easily customizable support center portal to enable users to easily interact with the support staff through your helpdesk system
-
-Reach out to us at our official [gitter chat][20] or by joining [forum][21] for any queries, concerns and feature request discussions.
-
-The development of the uvdesk community edition is led by the [uvdesk][10] team and backed by [Webkul][9]. Visit our [website][1] to learn more about the UVDesk Helpdesk System.
-
-Features
-----------------
-
-* [Translation Support (Multilingual)][32]
-* Unlimited Agents, Group, Team, Customers, Tickets etc
-* Agent Privileges
-* No limit on the number of Mailbox/Email integration
-* Saved Replies for common queries
-* Filter based on ticket status, Id, agent, customer, etc
-* Block Spam
-* [Agent Activity][29]
-* [Marketing Announcement][30]
-* [Kudos][31]
-* reCAPTCHA option
-* Standard automated workflows
-* Notes for agents
-* Custom branding
-* Change logo & favicon
-* Broadcasting message
-* Ticket Forwarding
-* Prepared Response
-* Email Notification
-* Effective search
-* User Friendly Web Installer
-* Add multiple attachments
-* Powerful Knowledgebase/Faq (article, category & folder)
-* Ticket types, Multiple Tags
-* Email Templates
-* [API][16]-[Doc][25]
-* Edit/delete/pinned ticket and thread
-* Add a collaborator and much more.
-* Check Apps [here.][26]
-
-Documentation
---------------
-
-Visit [docs.uvdesk.com](https://docs.uvdesk.com/) to read our official documentation and learn more about the uvdesk community project.
-
-We use Jekyll to develop and maintain our documentations. Consider contributing by submitting a pull request to our project's [jeykll repository](https://github.com/uvdesk/uvdesk.github.io).
-
-Requirements
---------------
-
-* **OS**: Ubuntu 16.04 LTS or higher / Windows 7 or Higher (WAMP / XAMPP).
-* **SERVER**: Apache 2 or NGINX.
-* **RAM**: 3 GB or higher.
-* **PHP**: 7.3 or higher.
-* **Processor**: Clock Cycle 1 Ghz or higher.
-* **For MySQL users**: 5.7.23 or higher.
-* **Composer**: 2 or higher.
-* **PHP IMAP** **&** **PHP Mailparse** for [Ubuntu][7], [Windows][23], [Centos][28], [Mac][27].
-
-Installation
---------------
-
-The installation process is broken down into two distinct steps:
-
-* Setup
-* Configuration
-
-### Setting up your helpdesk project
-
-In this step of the installation process, you'll be downloading the helpdesk project skeleton and installing all of its dependent components.
-
-As per your convenience, you can choose to either use composer for download the project and install all its dependencies automatically or directly download the project archive that comes pre-packaged with all of the project dependencies already installed.
-
-We recommend using composer over direct download whenever possible. However, if your system does not have enough ram to execute composer operations properly (for example: installing on a shared host with limited system resources), we suggest using the direct download method instead to mitigate these kind of issues.
-
-Irrespective of the method you use, the process to configuring your helpdesk remains the same.
-
-#### Composer
-
-You can use composer to setup your project by simply running the following command from your terminal:
-
-```bash
-$ composer create-project uvdesk/community-skeleton helpdesk-project
-```
-
-#### Direct Download
-
-Alternatively, you can also [download the zip archive](https://cdn.uvdesk.com/uvdesk/downloads/opensource/uvdesk-community-current-stable.zip) of the latest stable release and extract its content by running the following commands from your terminal:
-
-```bash
-$ wget "https://cdn.uvdesk.com/uvdesk/downloads/opensource/uvdesk-community-current-stable.zip" -P /var/www/
-$ unzip -q /var/www/uvdesk-community-current-stable.zip -d /var/www/ \
-```
-
-### Configuring your helpdesk project
-
-After you've downloaded and installed all the project dependencies, you can configure your helpdesk installation using either of the following ways:
-
-#### Using Terminal
-
-```bash
-$ php bin/console uvdesk:configure-helpdesk
-```
-
-#### Using Web Installer Wizard
-
-##### Extract the contents of zip and execute the project in your browser in case of project zip download:
-
-~~~
-http(s)://localhost/community-skeleton/public
-~~~
-
-##### In case of created project using command, execute the project in your browser:
-
-~~~
-http(s)://localhost/helpdesk-project/public
-~~~
-
-or
-
-~~~
-http(s)://example.com/public
-~~~
-
-After opening your project in the web browser, you will be greeted by the web installer which will guide you in configuring your project.
-
-
-##### Run project on localhost (dev mode)
-```bash
-php bin/console server:run
-```
-
-**How to clear cache:**
-
-```bash
-php bin/console c:c
-```
-
-**How to log in as admin/agent:**
-
-*Below url is the default url for admin/agent login if you have not made any changes for /member prefix.*
-
-> *http(s)://example.com/en/member/login* 
-
-**How to log in as customer:**
-
-*Below url is the default url for customer login if you have not made any changes for /customer prefix.*
-
-> *http(s)://example.com/en/customer/login*
-
-Docker Runtime
---------------
-
-[Dockerize your helpdesk project][22]
-
-Docker Persistent Container
---------------
-
-[Get started with Uvdesk now by using docker persistent container][34]
-
-Vagrant Virtual Environment
---------------
-
-[Get started with uvdesk now by using vagrant to setup virtual environment][33]
-
-Modules
---------------
-
-[Available Modules/Apps](https://store.webkul.com/UVdesk/UVdesk-Open-Source.html)
-
-Need something else ? email us at support@uvdesk.com
-
-License
---------------
-
-All libraries and bundles included in the UVDesk Community Edition are released under the [MIT][12] license.
-
-Security Vulnerabilities
---------------
-
-Please don't disclose any security vulnerabilities publicly. If you find any security vulnerability in our platform then please write us at [support@uvdesk.com](mailto:support@uvdesk.com).
-
-Feedback
----------
-#### Feedback (Support Community project by raising feedback)
-
-* [Trustpilot][17]
-* [Capterra][18]
-* [Software suggest][19]
-
-Contributions
---------------
-This project is hosted on [Open Collective][13] and exists thanks to our contributors:
-
-<a href="https://github.com/uvdesk/community-skeleton/graphs/contributors"><img src="https://opencollective.com/uvdesk/contributors.svg?width=890&button=false"/></a>
-
-#### Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/uvdesk#contributors" target="_blank"><img src="https://opencollective.com/uvdesk/backers.svg?width=890"></a>
-
-#### Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
-
-<a href="https://opencollective.com/uvdesk/contribute/sponsor-7372/checkout" target="_blank"><img src="https://images.opencollective.com/static/images/become_sponsor.svg"></a>
-
-[1]: https://www.uvdesk.com/
-[2]: https://github.com/uvdesk/core-framework
-[3]: https://github.com/uvdesk/extension-framework
-[4]: https://github.com/uvdesk/automation-bundle
-[5]: https://github.com/uvdesk/support-center-bundle
-[6]: https://support.uvdesk.com/en/blog/prerequisites-ubuntu
-[7]: https://support.uvdesk.com/en/blog/prerequisites-ubuntu
-[8]: https://getcomposer.org/
-[9]: https://webkul.com/
-[10]: https://www.uvdesk.com/en/team/
-[11]: https://github.com/uvdesk/mailbox-component
-[12]: https://github.com/uvdesk/community-skeleton/blob/master/LICENSE
-[13]: https://opencollective.com/uvdesk
-[14]: https://docs.uvdesk.com/
-[15]: https://demo.uvdesk.com/
-[16]: https://github.com/uvdesk/api-bundle
-[17]: https://www.trustpilot.com/review/uvdesk.com
-[18]: https://www.capterra.com/p/158346/UVdesk/
-[19]: https://www.softwaresuggest.com/uvdesk
-[20]: https://gitter.im/uvdesk/community
-[21]: https://forums.uvdesk.com/
-[22]: https://github.com/uvdesk/community-skeleton/wiki/dockerize-helpdesk-project
-[23]: https://support.uvdesk.com/en/blog/prerequisites-windows
-[24]: https://symfony.com/projects/uvdesk
-[25]: https://github.com/uvdesk/api-bundle/wiki/Ticket-Related-APIs
-[26]: https://store.webkul.com/UVdesk/UVdesk-Open-Source.html
-[27]: https://support.uvdesk.com/en/blog/prerequisites-mac
-[28]: https://support.uvdesk.com/en/blog/prerequisites-centos7
-[29]: https://www.uvdesk.com/en/blog/uvdesk-agent-activity/
-[30]: https://www.uvdesk.com/en/blog/uvdesk-marketing-announcement/
-[31]: https://support.uvdesk.com/es/blog/uvdesk-what-is-kudos
-[32]: https://www.uvdesk.com/en/blog/language-translation-in-uvdesk-open-source-helpdesk/
-[33]: https://github.com/uvdesk/community-skeleton/wiki/Vagrant-Virtual-Machine-Environment
-[34]: https://github.com/uvdesk/community-skeleton/wiki/Docker-Persistent-Container
+<p dir="auto"><a href="https://www.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uvdesk 社区帮助台</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目框架与基本实用程序和工具一起打包，用于构建和定制您自己的帮助台解决方案。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问我们的官方演示网站以</font></font><a href="https://demo.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看实际效果！</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在Symfony 官方网站</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上查看 UVdesk </font><font style="vertical-align: inherit;">– </font></font><a href="https://symfony.com/projects/uvdesk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Symfony</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></a></li>
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="#modules"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块</font></font></a></li>
+<li><a href="#requirements"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求</font></font></a></li>
+<li><a href="#installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="#docker-runtime"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker运行时</font></font></a></li>
+<li><a href="#docker-persistent-container"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 持久化容器</font></font></a></li>
+<li><a href="#vagrant-virtual-environment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vagrant 虚拟环境</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+<li><a href="#security-vulnerabilities"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全漏洞</font></font></a></li>
+<li><a href="#feedback"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反馈</font></font></a></li>
+<li><a href="#contributions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h2><a id="user-content-about" class="anchor" aria-label="永久链接：关于" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://symfony.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uvdesk 社区建立在symfony</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://backbonejs.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">backbone.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">之上</font><font style="vertical-align: inherit;">，是一个面向服务、事件驱动的可扩展开源帮助台系统，您的组织可以使用它以任何您想象的方式轻松地为您的客户提供高效支持。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标准发行版与以下帮助台包一起打包，以涵盖广泛的用例和要求：</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://github.com/uvdesk/core-framework"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核心框架</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 作为帮助台系统的核心，核心框架由项目所需的所有必要 api 和依赖包组成，以保持事物顺利运行</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/uvdesk/extension-framework"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">扩展框架</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 引入对第三方包集成和开发的支持，以便根据您的要求轻松构建和扩展帮助台系统的功能</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/uvdesk/automation-bundle"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化捆绑包</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 添加对工作流程和准备响应的支持，以自动化帮助台系统中的任何特定操作</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/uvdesk/mailbox-component"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮箱组件</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 转换并获取所有电子邮件以支持 UVDesk 上的票证并轻松管理客户查询。</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/uvdesk/support-center-bundle"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持中心捆绑包</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 集成可轻松定制的支持中心门户，使用户能够通过帮助台系统轻松与支持人员交互</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果有任何疑问、疑虑和功能请求讨论，请通过我们的官方</font></font><a href="https://gitter.im/uvdesk/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">gitter 聊天</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或加入</font></font><a href="https://forums.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们联系。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://www.uvdesk.com/en/team/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">uvdesk 社区版的开发由uvdesk</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">团队领导</font><font style="vertical-align: inherit;">并得到</font></font><a href="https://webkul.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Webkul</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的支持。请访问我们的</font></font><a href="https://www.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解有关 UVDesk Helpdesk 系统的更多信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="永久链接：特点" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.uvdesk.com/en/blog/language-translation-in-uvdesk-open-source-helpdesk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译支持（多语言）</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无限代理、团体、团队、客户、门票等</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理特权</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮箱/电子邮件集成数量没有限制</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">已保存常见查询的回复</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据工单状态、ID、代理、客户等进行过滤</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阻止垃圾邮件</font></font></li>
+<li><a href="https://www.uvdesk.com/en/blog/uvdesk-agent-activity/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理活动</font></font></a></li>
+<li><a href="https://www.uvdesk.com/en/blog/uvdesk-marketing-announcement/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">营销公告</font></font></a></li>
+<li><a href="https://support.uvdesk.com/es/blog/uvdesk-what-is-kudos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">荣誉</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证码选项</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标准自动化工作流程</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理商须知</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定制品牌</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更改徽标和图标</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">广播消息</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">票务转发</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">准备好的回应</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件通知</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有效搜索</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户友好的网络安装程序</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加多个附件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强大的知识库/常见问题解答（文章、类别和文件夹）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">门票类型，多个标签</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件模板</font></font></li>
+<li><a href="https://github.com/uvdesk/api-bundle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API-</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font><a href="https://github.com/uvdesk/api-bundle/wiki/Ticket-Related-APIs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&ZeroWidthSpace;</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑/删除/固定票证和话题</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">添加协作者等等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处检查应用程序</font></font><a href="https://store.webkul.com/UVdesk/UVdesk-Open-Source.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h2><a id="user-content-documentation" class="anchor" aria-label="永久链接：文档" href="#documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请访问</font></font><a href="https://docs.uvdesk.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docs.uvdesk.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读我们的官方文档并了解有关 uvdesk 社区项目的更多信息。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用 Jekyll 来开发和维护我们的文档。考虑通过向我们项目的</font></font><a href="https://github.com/uvdesk/uvdesk.github.io"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jeykll 存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交拉取请求来做出贡献</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求</font></font></h2><a id="user-content-requirements" class="anchor" aria-label="永久链接：要求" href="#requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作系统</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Ubuntu 16.04 LTS 或更高版本/Windows 7 或更高版本（WAMP / XAMPP）。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Apache 2 或 NGINX。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：3 GB 或更高。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：7.3 或更高版本。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">处理器</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：时钟周期 1 Ghz 或更高。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于 MySQL 用户</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：5.7.23 或更高版本。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：2名以上。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP IMAP</font></font></strong> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font></strong> <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP Mailparse</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于</font></font><a href="https://support.uvdesk.com/en/blog/prerequisites-ubuntu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ubuntu</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://support.uvdesk.com/en/blog/prerequisites-windows" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Windows</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://support.uvdesk.com/en/blog/prerequisites-centos7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Centos</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://support.uvdesk.com/en/blog/prerequisites-mac" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mac</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装过程分为两个不同的步骤：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置您的帮助台项目</font></font></h3><a id="user-content-setting-up-your-helpdesk-project" class="anchor" aria-label="永久链接：设置您的帮助台项目" href="#setting-up-your-helpdesk-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在安装过程的这一步中，您将下载帮助台项目框架并安装其所有依赖组件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据您的方便，您可以选择使用 Composer 下载项目并自动安装其所有依赖项，或者直接下载预打包的项目存档，其中已安装所有项目依赖项。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们建议尽可能使用 Composer 而不是直接下载。但是，如果您的系统没有足够的内存来正确执行 Composer 操作（例如：安装在系统资源有限的共享主机上），我们建议使用直接下载方法来缓解此类问题。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无论您使用哪种方法，配置帮助台的过程都是相同的。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家</font></font></h4><a id="user-content-composer" class="anchor" aria-label="永久链接：作曲家" href="#composer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您只需从终端运行以下命令即可使用 Composer 来设置您的项目：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ composer create-project uvdesk/community-skeleton helpdesk-project</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ composer create-project uvdesk/community-skeleton helpdesk-project" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">直接下载</font></font></h4><a id="user-content-direct-download" class="anchor" aria-label="永久链接：直接下载" href="#direct-download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者，您还可以</font></font><a href="https://cdn.uvdesk.com/uvdesk/downloads/opensource/uvdesk-community-current-stable.zip" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载最新稳定版本的 zip 存档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并通过从终端运行以下命令来提取其内容：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ wget <span class="pl-s"><span class="pl-pds">"</span>https://cdn.uvdesk.com/uvdesk/downloads/opensource/uvdesk-community-current-stable.zip<span class="pl-pds">"</span></span> -P /var/www/
+$ unzip -q /var/www/uvdesk-community-current-stable.zip -d /var/www/ \</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ wget &quot;https://cdn.uvdesk.com/uvdesk/downloads/opensource/uvdesk-community-current-stable.zip&quot; -P /var/www/
+$ unzip -q /var/www/uvdesk-community-current-stable.zip -d /var/www/ \" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置您的帮助台项目</font></font></h3><a id="user-content-configuring-your-helpdesk-project" class="anchor" aria-label="永久链接：配置您的帮助台项目" href="#configuring-your-helpdesk-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载并安装所有项目依赖项后，您可以使用以下任一方式配置帮助台安装：</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用终端</font></font></h4><a id="user-content-using-terminal" class="anchor" aria-label="永久链接：使用终端" href="#using-terminal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$ php bin/console uvdesk:configure-helpdesk</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="$ php bin/console uvdesk:configure-helpdesk" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Web 安装程序向导</font></font></h4><a id="user-content-using-web-installer-wizard" class="anchor" aria-label="永久链接：使用 Web 安装程序向导" href="#using-web-installer-wizard"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h5 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果是项目 zip 下载，请解压 zip 内容并在浏览器中执行项目：</font></font></h5><a id="user-content-extract-the-contents-of-zip-and-execute-the-project-in-your-browser-in-case-of-project-zip-download" class="anchor" aria-label="永久链接：在下载项目 zip 的情况下，提取 zip 的内容并在浏览器中执行该项目：" href="#extract-the-contents-of-zip-and-execute-the-project-in-your-browser-in-case-of-project-zip-download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>http(s)://localhost/community-skeleton/public
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="http(s)://localhost/community-skeleton/public" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<div class="markdown-heading" dir="auto"><h5 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果使用命令创建项目，请在浏览器中执行该项目：</font></font></h5><a id="user-content-in-case-of-created-project-using-command-execute-the-project-in-your-browser" class="anchor" aria-label="永久链接：如果使用命令创建项目，请在浏览器中执行该项目：" href="#in-case-of-created-project-using-command-execute-the-project-in-your-browser"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>http(s)://localhost/helpdesk-project/public
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="http(s)://localhost/helpdesk-project/public" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>http(s)://example.com/public
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="http(s)://example.com/public" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Web 浏览器中打开项目后，您将看到 Web 安装程序，它将指导您配置项目。</font></font></p>
+<div class="markdown-heading" dir="auto"><h5 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在本地主机上运行项目（开发模式）</font></font></h5><a id="user-content-run-project-on-localhost-dev-mode" class="anchor" aria-label="永久链接：在本地主机上运行项目（开发模式）" href="#run-project-on-localhost-dev-mode"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>php bin/console server:run</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="php bin/console server:run" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">清除缓存的方法：</font></font></strong></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>php bin/console c:c</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="php bin/console c:c" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何以管理员/代理身份登录：</font></font></strong></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您没有对 /member 前缀进行任何更改，下面的 url 是管理员/代理登录的默认 url。</font></font></em></p>
+<blockquote>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http(s)://example.com/en/member/login</font></font></em></p>
+</blockquote>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何以客户身份登录：</font></font></strong></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您没有对 /customer 前缀进行任何更改，以下网址是客户登录的默认网址。</font></font></em></p>
+<blockquote>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http(s)://example.com/en/customer/login</font></font></em></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker运行时</font></font></h2><a id="user-content-docker-runtime" class="anchor" aria-label="永久链接：Docker 运行时" href="#docker-runtime"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/uvdesk/community-skeleton/wiki/dockerize-helpdesk-project"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 化您的帮助台项目</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 持久化容器</font></font></h2><a id="user-content-docker-persistent-container" class="anchor" aria-label="永久链接：Docker 持久容器" href="#docker-persistent-container"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/uvdesk/community-skeleton/wiki/Docker-Persistent-Container"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">立即使用 docker 持久容器开始使用 Uvdesk</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vagrant 虚拟环境</font></font></h2><a id="user-content-vagrant-virtual-environment" class="anchor" aria-label="永久链接：Vagrant 虚拟环境" href="#vagrant-virtual-environment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://github.com/uvdesk/community-skeleton/wiki/Vagrant-Virtual-Machine-Environment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在通过使用 vagrant 设置虚拟环境来开始使用 uvdesk</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模块</font></font></h2><a id="user-content-modules" class="anchor" aria-label="永久链接：模块" href="#modules"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://store.webkul.com/UVdesk/UVdesk-Open-Source.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可用模块/应用程序</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还需要别的东西吗？给我们发电子邮件</font></font><a href="mailto:support@uvdesk.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">support@uvdesk.com</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UVDesk 社区版中包含的所有库和捆绑包均根据</font></font><a href="https://github.com/uvdesk/community-skeleton/blob/master/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可证发布。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全漏洞</font></font></h2><a id="user-content-security-vulnerabilities" class="anchor" aria-label="永久链接：安全漏洞" href="#security-vulnerabilities"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请不要公开披露任何安全漏洞。如果您发现我们的平台存在任何安全漏洞，请发送电子邮件至</font></font><a href="mailto:support@uvdesk.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">support@uvdesk.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反馈</font></font></h2><a id="user-content-feedback" class="anchor" aria-label="永久链接：反馈" href="#feedback"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">反馈（通过提出反馈来支持社区项目）</font></font></h4><a id="user-content-feedback-support-community-project-by-raising-feedback" class="anchor" aria-label="永久链接：反馈（通过提出反馈来支持社区项目）" href="#feedback-support-community-project-by-raising-feedback"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.trustpilot.com/review/uvdesk.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信任飞行员</font></font></a></li>
+<li><a href="https://www.capterra.com/p/158346/UVdesk/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡普特拉</font></font></a></li>
+<li><a href="https://www.softwaresuggest.com/uvdesk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件建议</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributions" class="anchor" aria-label="永久链接：贡献" href="#contributions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目托管在</font></font><a href="https://opencollective.com/uvdesk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Open Collective</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上，感谢我们的贡献者：</font></font></p>
+<p dir="auto"><a href="https://github.com/uvdesk/community-skeleton/graphs/contributors"><img src="https://camo.githubusercontent.com/e7761cbdb110ed759a41d599fe22051ef128a4cf6962d28f8c79146df4cd32fb/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f75766465736b2f636f6e7472696275746f72732e7376673f77696474683d38393026627574746f6e3d66616c7365" data-canonical-src="https://opencollective.com/uvdesk/contributors.svg?width=890&amp;button=false" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持者</font></font></h4><a id="user-content-backers" class="anchor" aria-label="永久链接：支持者" href="#backers"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢我们所有的支持者！ 🙏</font></font></p>
+<p dir="auto"><a href="https://opencollective.com/uvdesk#contributors" rel="nofollow"><img src="https://camo.githubusercontent.com/8dbee8f6e3ab02515fbdd2773bdcef024368743f5c6912b43ccf269ccda6ee3d/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f75766465736b2f6261636b6572732e7376673f77696474683d383930" data-canonical-src="https://opencollective.com/uvdesk/backers.svg?width=890" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h4><a id="user-content-sponsors" class="anchor" aria-label="永久链接：赞助商" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为赞助商来支持该项目。您的徽标将显示在此处，并带有指向您网站的链接。</font></font></p>
+<p dir="auto"><a href="https://opencollective.com/uvdesk/contribute/sponsor-7372/checkout" rel="nofollow"><img src="https://camo.githubusercontent.com/db0de3e59fb86e61225c7106a9d5fbc0a5b74c89f6127e38560c3e62083056c0/68747470733a2f2f696d616765732e6f70656e636f6c6c6563746976652e636f6d2f7374617469632f696d616765732f6265636f6d655f73706f6e736f722e737667" data-canonical-src="https://images.opencollective.com/static/images/become_sponsor.svg" style="max-width: 100%;"></a></p>
+</article></div>
